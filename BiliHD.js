@@ -1,4 +1,6 @@
 /*
+ *
+ *
 bilibili fan drama open 1080P+
 
 [rewrite_local]
@@ -8,6 +10,8 @@ https:\/\/ap(p|i)\.bilibili\.com\/((pgc\/player\/api\/playurl)|(x\/v2\/account\/
 [mitm]
 
 hostname = api.bilibili.com
+* 
+* 
 */
 
 var body = $response.body;
