@@ -5,7 +5,8 @@ bilibili fan drama open 1080P+
 
 https:\/\/ap(p|i)\.bilibili\.com\/((pgc\/player\/api\/playurl)|(x\/v2\/account\/myinfo\?)|(x\/v2\/account/mine\?)) url script-response-body BiliHD.js
 
-[mitm] 
+[mitm]
+
 hostname = api.bilibili.com
 */
 
